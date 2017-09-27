@@ -20,3 +20,4 @@ terminal 다른 창에서 pip freeze로 저장.
 ```TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')```추가.
 ![tem_dirs](tem_dirs.png)
 
+![def_postlist](def_postlist.png)
