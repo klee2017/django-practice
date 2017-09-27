@@ -13,6 +13,10 @@ terminal 다른 창에서 pip freeze로 저장.
 ```http://127.0.0.1:8000/```로 접속했을 때
 홈 화면이 나오도록.
 
+![postlist_html](postlisthtml.png)
+* template -> templates로 수정함
 
-
+![tem_dir](tem_dir.png)
+```TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')```추가.
+![tem_dirs](tem_dirs.png)
 
